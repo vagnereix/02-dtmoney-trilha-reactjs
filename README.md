@@ -17,3 +17,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Styled Components](https://styled-components.com/)
 - [Mirage JS](https://miragejs.com/)
 - [React Modal](https://reactcommunity.org/react-modal)
+
+---
+
+<p align="center">
+Feito com 💜&nbsp;por <a href="https://github.com/vagnereix">Vagner Reis</a>
+</p>
