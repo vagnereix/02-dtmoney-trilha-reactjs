@@ -2,11 +2,9 @@
   <img alt="dtmoney" title="dtmoney" src="./src/assets/logo.svg" width="220px" />
 </h1>
 
-## [Preview](https://dtmoney.vercel.app/)
-
 ## 💻 Projeto
 
-O dtmoney é uma aplicação de controle financeiro. Foi desenvolvido durante as aulas do Chapter II da trilha de ReactJS do Bootcamp Ignite da Rocketseat, e nele é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+O [dt money](https://dtmoney.vercel.app/) é uma aplicação de controle financeiro. Foi desenvolvido durante as aulas do Chapter II da trilha de ReactJS do Bootcamp Ignite da Rocketseat, e nele é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
 ## :books: Guia de instalação e execução
 
