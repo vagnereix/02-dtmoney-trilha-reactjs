@@ -2,11 +2,25 @@
   <img alt="dtmoney" title="dtmoney" src="./src/assets/logo.svg" width="220px" />
 </h1>
 
+<h3 align="center">
+  Tenha total controle sobre a sua vida financeira
+</h3>
+
+<p align="center">
+  <a href="#-projeto">Sobre o Projeto</a> •
+  <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-guia-de-instalação-e-execução">Guia de instalação</a>
+</p>
+
+<p align="center">
+<img src="https://github.com/davi1985/dtmoney/blob/main/src/assets/screen2.png" alt="screenshot" width="1120px" />
+</p>
+
 ## 💻 Projeto
 
 O [dt money](https://dtmoney.vercel.app/) é uma aplicação de controle financeiro. Foi desenvolvido durante as aulas do Chapter II da trilha de ReactJS do Bootcamp Ignite da Rocketseat, e nele é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
-## :books: Guia de instalação e execução
+## 📚 Guia de instalação e execução
 
 ### Requisitos:
 
